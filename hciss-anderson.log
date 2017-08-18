@@ -1,0 +1,1064 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.8)  18 AUG 2017 21:18
+entering extended mode
+**hciss-anderson.tex
+(hciss-anderson.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+(IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count91
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count93
+\rotFPtop=\skip46
+\rotFPbot=\skip47
+\rot@float@box=\box27
+\rot@mess@toks=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2015/08/03 3.9m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2015/08/03 3.9m Babel common definitions
+\babel@savecnt=\count94
+\U@D=\dimen119
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks19
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+\everycr=\toks20
+\minrowclearance=\skip50
+)
+\rownum=\count95
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks21
+\float@box=\box28
+\@float@everytoks=\toks22
+\@floatcapt=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read1
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\textfit\textfit.sty"
+Package: textfit 1994/04/15
+\mags@f@r=\count97
+\desired@size=\dimen122
+\r@mainder=\count98
+\m@gstepcount=\count99
+\m@gsteplimit=\count100
+\m@gstepvalue=\count101
+\m@gstepdimen=\dimen123
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count102
+\LTcapwidth=\dimen124
+\LT@head=\box30
+\LT@firsthead=\box31
+\LT@foot=\box32
+\LT@lastfoot=\box33
+\LT@cols=\count103
+\LT@rows=\count104
+\c@LT@tables=\count105
+\c@LT@chunks=\count106
+\LT@p@ftn=\toks25
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen125
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen126
+\lightrulewidth=\dimen127
+\cmidrulewidth=\dimen128
+\belowrulesep=\dimen129
+\belowbottomsep=\dimen130
+\aboverulesep=\dimen131
+\abovetopsep=\dimen132
+\cmidrulesep=\dimen133
+\cmidrulekern=\dimen134
+\defaultaddspace=\dimen135
+\@cmidla=\count107
+\@cmidlb=\count108
+\@aboverulesep=\dimen136
+\@belowrulesep=\dimen137
+\@thisruleclass=\count109
+\@lastruleclass=\count110
+\@thisrulewidth=\dimen138
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\ae.sty"
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 105.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancybox\fancybox.sty"
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box34
+\shadowsize=\dimen139
+\@Sbox=\box35
+\do@VerbBox=\toks26
+\the@fancyput=\toks27
+\this@fancyput=\toks28
+\EndVerbatimTokens=\toks29
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read2
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+\c@tracingmulticols=\count111
+\mult@box=\box36
+\multicol@leftmargin=\dimen140
+\c@unbalance=\count112
+\c@collectmore=\count113
+\doublecol@number=\count114
+\multicoltolerance=\count115
+\multicolpretolerance=\count116
+\full@width=\dimen141
+\page@free=\dimen142
+\premulticols=\dimen143
+\postmulticols=\dimen144
+\multicolsep=\skip55
+\multicolbaselineskip=\skip56
+\partial@page=\box37
+\last@line=\box38
+\maxbalancingoverflow=\dimen145
+\mult@rightbox=\box39
+\mult@grightbox=\box40
+\mult@gfirstbox=\box41
+\mult@firstbox=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\c@columnbadness=\count117
+\c@finalcolumnbadness=\count118
+\last@try=\dimen146
+\multicolovershoot=\dimen147
+\multicolundershoot=\dimen148
+\mult@nat@firstbox=\box60
+\colbreak@box=\box61
+\mc@col@check@num=\count119
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count120
+\lst@gtempboxa=\box62
+\lst@token=\toks30
+\lst@length=\count121
+\lst@currlwidth=\dimen149
+\lst@column=\count122
+\lst@pos=\count123
+\lst@lostspace=\dimen150
+\lst@width=\dimen151
+\lst@newlines=\count124
+\lst@lineno=\count125
+\lst@maxwidth=\dimen152
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count126
+\lst@skipnumbers=\count127
+\lst@framebox=\box63
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks31
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+(hciss-anderson.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 385.
+LaTeX Font Info:    ... okay on input line 385.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 385.
+LaTeX Font Info:    ... okay on input line 385.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 385.
+LaTeX Font Info:    ... okay on input line 385.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 385.
+LaTeX Font Info:    ... okay on input line 385.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 385.
+LaTeX Font Info:    ... okay on input line 385.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 385.
+LaTeX Font Info:    ... okay on input line 385.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen153
+\scratchbox=\box64
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen154
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks33
+)
+\c@lstlisting=\count134
+
+
+LaTeX Warning: No \author given.
+
+
+LaTeX Warning: No \author given.
+
+(sections/section1.tex
+
+Package natbib Warning: Citation `marcolino_edu2015' on page 1 undefined on inp
+ut line 5.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 1 undefined on in
+put line 5.
+
+
+Package natbib Warning: Citation `souza2015' on page 1 undefined on input line 
+7.
+
+
+Package natbib Warning: Citation `marcolino_edu2015' on page 1 undefined on inp
+ut line 9.
+
+
+Package natbib Warning: Citation `marcolino_edu2015' on page 1 undefined on inp
+ut line 12.
+
+
+Package natbib Warning: Citation `marcolino_spl2015' on page 1 undefined on inp
+ut line 15.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 1 undefined on in
+put line 15.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 1 undefined on in
+put line 15.
+
+
+Package natbib Warning: Citation `6799220' on page 1 undefined on input line 15
+.
+
+
+Package natbib Warning: Citation `pohl2005' on page 1 undefined on input line 1
+5.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 1 undefined on in
+put line 18.
+
+[1{C:/Users/Anderson/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+])
+(sections/section2.tex
+
+Package natbib Warning: Citation `juniortowards' on page 2 undefined on input l
+ine 9.
+
+
+Package natbib Warning: Citation `20123315330601' on page 2 undefined on input 
+line 9.
+
+
+Package natbib Warning: Citation `marcolino_edu2015' on page 2 undefined on inp
+ut line 11.
+
+
+Package natbib Warning: Citation `marcolino_edu2015' on page 2 undefined on inp
+ut line 11.
+
+
+Package natbib Warning: Citation `tedesco2012' on page 2 undefined on input lin
+e 11.
+
+
+Package natbib Warning: Citation `Duncan:2014:YLC:2670757.2670774' on page 2 un
+defined on input line 13.
+
+
+Package natbib Warning: Citation `marcolino_edu2015' on page 2 undefined on inp
+ut line 13.
+
+
+Package natbib Warning: Citation `tedesco2012' on page 2 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `Duncan:2014:YLC:2670757.2670774' on page 2 un
+defined on input line 13.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 2 undefined on in
+put line 15.
+
+
+Package natbib Warning: Citation `pohl2005' on page 2 undefined on input line 1
+9.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 2 undefined on in
+put line 19.
+
+
+
+pdfTeX warning: pdflatex (file ./conceptual_old.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<conceptual_old.pdf, id=11, 524.28864pt x 370.54938pt>
+File: conceptual_old.pdf Graphic file (type pdf)
+
+<use conceptual_old.pdf>
+Package pdftex.def Info: conceptual_old.pdf used on input line 29.
+(pdftex.def)             Requested size: 393.21552pt x 277.91135pt.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 2 undefined on in
+put line 30.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 2 undefined on in
+put line 36.
+
+
+Package natbib Warning: Citation `pohl2005' on page 2 undefined on input line 4
+4.
+
+
+Package natbib Warning: Citation `deOliveira2013' on page 2 undefined on input 
+line 44.
+
+
+Package natbib Warning: Citation `marcolino2013' on page 2 undefined on input l
+ine 44.
+
+[2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 1939) in paragraph at lines 49--50
+\T1/aer/m/n/10 types: $\OMS/cmsy/m/n/10 $\T1/aer/m/n/10 variability$\OMS/cmsy/
+m/n/10 $\T1/aer/m/n/10 , $\OMS/cmsy/m/n/10 $\T1/aer/m/n/10 mandatory$\OMS/cms
+y/m/n/10 $\T1/aer/m/n/10 , $\OMS/cmsy/m/n/10 $\T1/aer/m/n/10 optional$\OMS/cm
+sy/m/n/10 $\T1/aer/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 49--50
+$\OMS/cmsy/m/n/10 $\T1/aer/m/n/10 alternative_OR$\OMS/cmsy/m/n/10 $\T1/aer/m/
+n/10 , $\OMS/cmsy/m/n/10 $\T1/aer/m/n/10 alternative_XO$\OMS/cmsy/m/n/10 $\T1
+/aer/m/n/10 ; $\OMS/cmsy/m/n/10 $\T1/aer/m/n/10 mutex$\OMS/cmsy/m/n/10 $
+ []
+
+
+Package natbib Warning: Citation `marcolino2013' on page 3 undefined on input l
+ine 52.
+
+
+Package natbib Warning: Citation `MarcolinoJG14' on page 3 undefined on input l
+ine 52.
+
+
+Package natbib Warning: Citation `deOliveira2013' on page 3 undefined on input 
+line 52.
+
+)
+Underfull \vbox (badness 3148) has occurred while \output is active []
+
+
+(sections/section3.tex
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 3 undefined on in
+put line 5.
+
+[3 <./conceptual_old.pdf>]
+
+Package natbib Warning: Citation `souza2015' on page 4 undefined on input line 
+22.
+
+
+
+pdfTeX warning: pdflatex (file ./archv7.pdf): PDF inclusion: found PDF version 
+<1.7>, but at most version <1.5> allowed
+<archv7.pdf, id=46, 545.26782pt x 268.15282pt>
+File: archv7.pdf Graphic file (type pdf)
+ <use archv7.pdf>
+Package pdftex.def Info: archv7.pdf used on input line 37.
+(pdftex.def)             Requested size: 490.73651pt x 241.33528pt.
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 4 undefined on in
+put line 44.
+
+
+Package natbib Warning: Citation `krebs2012architectural' on page 4 undefined o
+n input line 46.
+
+
+Package natbib Warning: Citation `krebs2012architectural' on page 4 undefined o
+n input line 50.
+
+[4]
+
+Package natbib Warning: Citation `krebs2012architectural' on page 5 undefined o
+n input line 75.
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 75--76
+[]\T1/aer/bx/n/10 Negative fac-tors: \T1/aer/m/n/10 Larger de-vel-op-ment ef-fo
+rt,
+ []
+
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 5 undefined on in
+put line 83.
+
+
+Package natbib Warning: Citation `marcolino_catalog2016' on page 5 undefined on
+ input line 83.
+
+
+Package natbib Warning: Citation `repository' on page 5 undefined on input line
+ 85.
+
+
+Underfull \vbox (badness 5175) has occurred while \output is active []
+
+ [5 <./archv7.pdf>]
+
+Package natbib Warning: Citation `repository' on page 6 undefined on input line
+ 87.
+
+
+Package natbib Warning: Citation `Newman:2015:BM:2904388' on page 6 undefined o
+n input line 92.
+
+
+
+pdfTeX warning: pdflatex (file ./component.pdf): PDF inclusion: found PDF versi
+on <1.6>, but at most version <1.5> allowed
+<component.pdf, id=66, 450.33252pt x 292.38033pt>
+File: component.pdf Graphic file (type pdf)
+ <use component.pdf>
+Package pdftex.def Info: component.pdf used on input line 99.
+(pdftex.def)             Requested size: 450.3314pt x 292.3796pt.
+
+
+Package natbib Warning: Citation `Newman:2015:BM:2904388' on page 6 undefined o
+n input line 106.
+
+[6]) (sections/section4.tex
+
+Package natbib Warning: Citation `marcolinoarcht2017' on page 7 undefined on in
+put line 6.
+
+
+Package natbib Warning: Citation `LindenSchmidRommes07' on page 7 undefined on 
+input line 12.
+
+
+Package natbib Warning: Citation `Pressman:2015' on page 7 undefined on input l
+ine 18.
+
+
+
+pdfTeX warning: pdflatex (file ./content.pdf): PDF inclusion: found PDF version
+ <1.6>, but at most version <1.5> allowed
+<content.pdf, id=70, 451.13925pt x 334.63217pt>
+File: content.pdf Graphic file (type pdf)
+ <use content.pdf>
+Package pdftex.def Info: content.pdf used on input line 24.
+(pdftex.def)             Requested size: 451.13814pt x 334.63135pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 31--32
+[]\T1/aer/m/n/10 In the rep-re-sen-ta-tion, the clients are tagged as
+ []
+
+[7 <./component.pdf>]
+
+Package natbib Warning: Citation `Pressman:2015' on page 8 undefined on input l
+ine 37.
+
+
+Package natbib Warning: Citation `Newman:2015:BM:2904388' on page 8 undefined o
+n input line 37.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./content.pdf>]
+
+Package natbib Warning: Citation `Beck:2004:EPE:1076267' on page 9 undefined on
+ input line 60.
+
+
+Package natbib Warning: Citation `Fraser:2003:TDD:1763875.1763973' on page 9 un
+defined on input line 60.
+
+) (sections/section5.tex) [9] (hciss-anderson.bbl
+Underfull \hbox (badness 1648) in paragraph at lines 4--10
+[]\T1/aer/m/n/10 Viviane Cristina Oliveira Au-re-liano and Pa-trí-
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 39--42
+[]\T1/aer/m/n/10 Rouven Krebs, Christof Momm, and Samuel
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 44--48
+\T1/aer/m/it/10 dus-trial Prac-tice in Prod-uct Line En-gi-neer-ing\T1/aer/m/n/
+10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
+[]\T1/aer/m/n/10 Anderson Mar-col-ino, Ed-son OliveiraJr, and
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 57--62
+\T1/aer/m/n/10 Itana Maria de Souza Gimenes.  Vari-abil-ity
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 57--62
+\T1/aer/m/n/10 Iden-ti-fi-ca-tion and Rep-re-sen-ta-tion in Soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
+[]\T1/aer/m/n/10 Nikolai Till-mann, Michal Moskal, Jonathan
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 132--136
+\T1/aer/m/n/10 De Halleux, Manuel Fah-n-drich, Ju-dith Bishop,
+ []
+
+)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+
+Package natbib Warning: There were undefined citations.
+
+[10] (hciss-anderson.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
+Here is how much of TeX's memory you used:
+ 6098 strings out of 493673
+ 84892 string characters out of 3141521
+ 163675 words of memory out of 3000000
+ 9249 multiletter control sequences out of 15000+200000
+ 112893 words of font info for 152 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 41i,9n,35p,1453b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on hciss-anderson.pdf (10 pages, 1704263 bytes).
+PDF statistics:
+ 191 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

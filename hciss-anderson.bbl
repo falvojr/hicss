@@ -1,0 +1,137 @@
+\begin{thebibliography}{10}
+
+\bibitem{tedesco2012}
+Viviane Cristina~Oliveira Aureliano and Patr\'{i}cia~Cabral de~Azevedo
+  Restelli~Tedesco.
+\newblock {Ensino e Aprendizagem de Programa\c{c}\~{a}o para Iniciantes: uma
+  Revis\~{a}o Sistem\'{a}tica da Literatura focada no SBIE e WIE}.
+\newblock {\em Simp\'{o}sio Brasileiro de Inform\'{a}tica na Educa\c{c}\~{a}o},
+  2012.
+
+\bibitem{Beck:2004:EPE:1076267}
+Kent Beck and Cynthia Andres.
+\newblock {\em Extreme Programming Explained: Embrace Change (2Nd Edition)}.
+\newblock Addison-Wesley Professional, 2004.
+
+\bibitem{Duncan:2014:YLC:2670757.2670774}
+Caitlin Duncan, Tim Bell, and Steve Tanimoto.
+\newblock Should your 8-year-old learn coding?
+\newblock In {\em Proceedings of the 9th Workshop in Primary and Secondary
+  Computing Education}, WiPSCE '14, pages 60--69, New York, NY, USA, 2014. ACM.
+
+\bibitem{juniortowards}
+V.~Falvo{ }Junior, Nem\'esio~F. Duarte{ }Filho, Edson OliveiraJr, and
+  Ellen~Francine Barbosa.
+\newblock {Towards the Establishment of a Software Product Line for Mobile
+  Learning Applications}.
+\newblock {\em Int. Conf. on Software Engineering and Knowledge Engineering
+  (SEKE)}, 1:678--683, 2014.
+
+\bibitem{Fraser:2003:TDD:1763875.1763973}
+Steven Fraser, Kent Beck, Bil Caputo, Tim Mackinnon, James Newkirk, and Charlie
+  Poole.
+\newblock Test driven development (tdd).
+\newblock In {\em Proceedings of the 4th International Conference on Extreme
+  Programming and Agile Processes in Software Engineering}, pages 459--462,
+  Berlin, Heidelberg, 2003. Springer-Verlag.
+
+\bibitem{krebs2012architectural}
+Rouven Krebs, Christof Momm, and Samuel Kounev.
+\newblock Architectural concerns in multi-tenant saas applications.
+\newblock {\em Closer}, 12:426--431, 2012.
+
+\bibitem{LindenSchmidRommes07}
+Frank~J. Linden, Klaus Schmid, and Eelco Rommes.
+\newblock {\em {Software Product Lines in Action: The Best Industrial Practice
+  in Product Line Engineering}}.
+\newblock Springer, Berlin, 2007.
+
+\bibitem{marcolino2013}
+A.~Marcolino, Edson OliveiraJr, I.~M.~S. Gimenes, and J.~C. Maldonado.
+\newblock {Towards the Effectiveness of a Variability Management Approach at
+  Use Case Level}.
+\newblock {\em Int. Conf. on Software Engineering \& Knowledge Engineering}, v.
+  1.:214--219, 2013.
+
+\bibitem{MarcolinoJG14}
+Anderson Marcolino, Edson OliveiraJr, and Itana~Maria de~Souza~Gimenes.
+\newblock {Variability Identification and Representation in Software Product
+  Line {UML} Sequence Diagrams: Proposal and Empirical Study}.
+\newblock In {\em 2014 Brazilian Symposium on Software Engineering,
+  Macei{\'{o}}, Brazil, Set. 28 - October 3, 2014}, pages 141--150, 2014.
+
+\bibitem{marcolino_spl2015}
+Anderson~S. Marcolino and Ellen~Francine Barbosa.
+\newblock {Linhas de Produto de Software no Dom\'{i}nio Educacional: Um
+  Mapeamento Sistem\'{a}tico}.
+\newblock {\em Simp\'{o}sio Brasileiro de Inform\'{a}tica na Educa\c{c}\~{a}o},
+  1:239--249, 2015.
+
+\bibitem{marcolino_edu2015}
+Anderson~S. Marcolino and Ellen~Francine Barbosa.
+\newblock {Softwares Educacionais para o Ensino de Programa\c{c}\~{a}o: Um
+  Mapeamento Sistem\'{a}tico}.
+\newblock {\em Simp\'{o}sio Brasileiro de Inform\'{a}tica na Educa\c{c}\~{a}o},
+  1:190--199, 2015.
+
+\bibitem{marcolino_catalog2016}
+Anderson~S. Marcolino and Ellen~Francine Barbosa.
+\newblock Towards an m-learning requirements catalog for the development of
+  educational applications for the teaching of programming.
+\newblock {\em In: 2016 IEEE Frontiers in Education Conference (FIE), 2016,
+  Erie (PA).}, pages 1--5, 2016.
+
+\bibitem{marcolinoarcht2017}
+Anderson~S. Marcolino and Ellen~Francine Barbosa.
+\newblock Towards a software product line architecture to build m-learning
+  applications for the teaching of programming.
+\newblock {\em In: 50th Hawaii International Conference on System Sciences
+  (HICSS-52), 2017, Kauai (HI) - EUA.}, pages 6264--6273, 2017.
+
+\bibitem{repository}
+Microsoft.
+\newblock The repository pattern, 2017.
+
+\bibitem{Newman:2015:BM:2904388}
+Sam Newman.
+\newblock {\em Building Microservices}.
+\newblock O'Reilly Media, Inc., 1st edition, 2015.
+
+\bibitem{deOliveira2013}
+Edson~Alves Oliveira, Junior, Itana Maria~Souza Gimenes, and Jose~Carlos
+  Maldonado.
+\newblock {Systematic Evaluation of Software Product Line Architectures}.
+\newblock {\em Journal of Universal Computer Science}, 19(1):25--52, jan 2013.
+
+\bibitem{pohl2005}
+K.~Pohl, G.~Bockle, and F.~Linden.
+\newblock {\em {Software Product Line Engineering Foundations, Principle, and
+  Techniques}}.
+\newblock Secaucus, NJ, USA: Springer-Verlag, 2005.
+
+\bibitem{Pressman:2015}
+Roger Pressman.
+\newblock {\em Software Engineering: A Practitioner's Approach}.
+\newblock McGraw-Hill, Inc., New York, NY, USA, 8 edition, 2015.
+
+\bibitem{6799220}
+P.~Sanchez~Barreiro, D.~Garcia-Saiz, and M.E. Zorrilla~Pantaleon.
+\newblock {Building Families of Software Products for e-Learning Platforms: A
+  Case Study}.
+\newblock {\em IEEE Revista Iberoamericana de Tecnologias del Aprendizaje},
+  9(2):64--71, Maio 2014.
+
+\bibitem{souza2015}
+D.~M. Souza, M.~H.~S. Batista, and E.~F. Barbosa.
+\newblock {Problemas e Dificuldades no Ensino de Programa\c{c}\~{a}o: Um
+  Mapeamento Sistem\'{a}tico}.
+\newblock In {\em Revista Brasileira de Inform\'{a}tica na Educa\c{c}\~{a}o.},
+  2015.
+
+\bibitem{20123315330601}
+Nikolai Tillmann, Michal Moskal, Jonathan De~Halleux, Manuel Fahndrich, Judith
+  Bishop, Arjmand Samuel, and Tao Xie.
+\newblock {The Future of Teaching Programming is on Mobile Devices}.
+\newblock pages 156 -- 161, Haifa, Israel, 2012.
+
+\end{thebibliography}

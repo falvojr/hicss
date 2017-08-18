@@ -1,0 +1,15 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: hciss-anderson.aux
+The style file: plain.bst
+Database file #1: references.bib
+Repeated entry---line 3226 of file references.bib
+ : @book{LindenSchmidRommes07
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3484 of file references.bib
+ : @article{marcolino_catalog2016
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "repository" isn't style-file defined
+--line 3683 of file references.bib
+Warning--empty booktitle in 20123315330601
+(There were 2 error messages)
